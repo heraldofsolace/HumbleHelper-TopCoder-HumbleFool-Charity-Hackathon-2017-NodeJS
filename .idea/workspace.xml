@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2aa6ea5e-47ec-421f-ab6e-a6318467b69f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/PySOFT/DBManager.py" afterPath="$PROJECT_DIR$/PySOFT/DBManager.py" />
+      <change beforePath="$PROJECT_DIR$/PySOFT/test.sqlite" afterPath="$PROJECT_DIR$/PySOFT/test.sqlite" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3474">
+              <caret line="193" column="53" lean-forward="false" selection-start-line="193" selection-start-column="53" selection-end-line="193" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_question.ejs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/templates/view_question.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view_profile.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/view_profile.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/resources/js/home.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="55" column="29" lean-forward="false" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/home.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/register.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="954">
+              <caret line="53" column="43" lean-forward="false" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/templates/index.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat-bubble.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/vendors/css/chat-bubble.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_base-variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sass/_base-variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>403</find>
+      <find>question.author</find>
+      <find>type</find>
+      <find>emit('error'</find>
+      <find>port</find>
+      <find>one user</find>
+      <find>../images</find>
+      <find>logger.error</find>
+      <find>df6e6b</find>
+      <find>$.post('/question/'</find>
+      <find>/question</find>
+      <find>'/question/'</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/images</replace>
+      <replace>debug_development</replace>
+      <replace>#df6e6b</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PySOFT" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/templates/404.ejs" />
+        <option value="$PROJECT_DIR$/templates/403.ejs" />
+        <option value="$PROJECT_DIR$/templates/500.ejs" />
+        <option value="$PROJECT_DIR$/public/resources/js/suggestion.js" />
+        <option value="$PROJECT_DIR$/manifest.yml" />
+        <option value="$PROJECT_DIR$/templates/suggestion.ejs" />
+        <option value="$PROJECT_DIR$/public/vendors/js/star-rating.js" />
+        <option value="$PROJECT_DIR$/public/vendors/css/star-rating.css" />
+        <option value="$PROJECT_DIR$/public/vendors/css/star-theme.css" />
+        <option value="$PROJECT_DIR$/public/vendors/js/star-theme.js" />
+        <option value="$PROJECT_DIR$/.jscsrc" />
+        <option value="$PROJECT_DIR$/build_website.sh" />
+        <option value="$PROJECT_DIR$/public/resources/js/register.js" />
+        <option value="$PROJECT_DIR$/test/test-server.js" />
+        <option value="$PROJECT_DIR$/public/resources/js/chat.js" />
+        <option value="$PROJECT_DIR$/sass/styles-chat.scss" />
+        <option value="$PROJECT_DIR$/sass/styles-view_question.scss" />
+        <option value="$PROJECT_DIR$/sass/styles-view_profile.scss" />
+        <option value="$PROJECT_DIR$/public/resources/js/view_profile.js" />
+        <option value="$PROJECT_DIR$/templates/view_profile.ejs" />
+        <option value="$PROJECT_DIR$/templates/view_question.ejs" />
+        <option value="$PROJECT_DIR$/templates/index.ejs" />
+        <option value="$PROJECT_DIR$/templates/register.ejs" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server/routers/index.js" />
+        <option value="$PROJECT_DIR$/sass/_button.scss" />
+        <option value="$PROJECT_DIR$/templates/chat.ejs" />
+        <option value="$PROJECT_DIR$/public/resources/js/home.js" />
+        <option value="$PROJECT_DIR$/templates/home.ejs" />
+        <option value="$PROJECT_DIR$/src/sass/styles-index.scss" />
+        <option value="$PROJECT_DIR$/src/vendors/mode/cobol/cobol.js" />
+        <option value="$PROJECT_DIR$/src/vendors/mode/css/scss_test.js" />
+        <option value="$PROJECT_DIR$/src/vendors/mode/slim/slim.js" />
+        <option value="$PROJECT_DIR$/src/templates/403.ejs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/templates/404.ejs" />
+        <option value="$PROJECT_DIR$/src/templates/suggestion.ejs" />
+        <option value="$PROJECT_DIR$/src/resources/js/view_profile.js" />
+        <option value="$PROJECT_DIR$/src/templates/register.ejs" />
+        <option value="$PROJECT_DIR$/src/templates/view_question.ejs" />
+        <option value="$PROJECT_DIR$/src/sass/styles-chat.scss" />
+        <option value="$PROJECT_DIR$/src/templates/view_profile.ejs" />
+        <option value="$PROJECT_DIR$/src/sass/chat-bubble.scss" />
+        <option value="$PROJECT_DIR$/src/templates/chat.ejs" />
+        <option value="$PROJECT_DIR$/src/resources/js/chat.js" />
+        <option value="$PROJECT_DIR$/src/vendors/css/chat-bubble.css" />
+        <option value="$PROJECT_DIR$/src/resources/js/home.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
+        <option value="$PROJECT_DIR$/src/templates/home.ejs" />
+        <option value="$PROJECT_DIR$/src/templates/index.ejs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="230" />
+    <option name="y" value="37" />
+    <option name="width" value="906" />
+    <option name="height" value="483" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HumbleHelper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumbleHelper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HumbleHelper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumbleHelper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HumbleHelper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HumbleHelper" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="nodejs_interpreter_path" value="/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="9.2.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.detected.package.jscs" value="true" />
+    <property name="node.js.selected.package.jscs" value="/usr/lib/node_modules/jscs" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/vendors/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gulp.js.run">
+    <configuration name="Debug" type="ChromiumRemoteDebugType" factoryName="Chromium Remote" port="9229" isV8Legacy="true">
+      <method>
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Sass" />
+      </method>
+    </configuration>
+    <configuration name="default" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="run" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>run</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="watch" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration name="HumbleHelper" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs>
+        <env name="HUMBLEHELPER_SECRET" value="VG05dVpVOW1XVzkxY2tKMWMybHVaWE56Q2c9PQo=" />
+        <env name="MAIN_ROUTE" value="http://localhost:3000" />
+        <env name="VCAP_SERVICES" value="{     &quot;imfpush&quot;: [         {             &quot;credentials&quot;: {                 &quot;appGuid&quot;: &quot;6685f589-3c73-4b4d-87ad-f1366eb68ee1&quot;,                 &quot;url&quot;: &quot;http://imfpush.eu-gb.bluemix.net/imfpush/v1/apps/6685f589-3c73-4b4d-87ad-f1366eb68ee1&quot;,                 &quot;admin_url&quot;: &quot;//mobile.eu-gb.bluemix.net/imfpushdashboard/?appGuid=6685f589-3c73-4b4d-87ad-f1366eb68ee1&quot;,                 &quot;appSecret&quot;: &quot;4795ae76-fbec-4e64-b684-efea652ff4f1&quot;,                 &quot;clientSecret&quot;: &quot;576065bd-1648-4c37-a704-e71e75bb7261&quot;             },             &quot;syslog_drain_url&quot;: null,             &quot;volume_mounts&quot;: [],             &quot;label&quot;: &quot;imfpush&quot;,             &quot;provider&quot;: null,             &quot;plan&quot;: &quot;lite&quot;,             &quot;name&quot;: &quot;Push Notifications-ms&quot;,             &quot;tags&quot;: [                 &quot;mobile&quot;,                 &quot;ibm_created&quot;,                 &quot;ibm_dedicated_public&quot;,                 &quot;lite&quot;             ]         }     ],     &quot;alertnotification&quot;: [         {             &quot;credentials&quot;: {                 &quot;url&quot;: &quot;https://ibmnotifybm.eu-gb.mybluemix.net/api/alerts/v1&quot;,                 &quot;name&quot;: &quot;5db5fbe7-2639-426c-83f8-1fb247b722dc/92677028-b34d-4e08-9ffd-a7a988d25758&quot;,                 &quot;password&quot;: &quot;fU0utM3LKjlU0QIMxr59lfVRFcwQ02Tb&quot;,                 &quot;swaggerui&quot;: &quot;https://ibmnotifybm.eu-gb.mybluemix.net/docs/alerts/v1&quot;             },             &quot;syslog_drain_url&quot;: null,             &quot;volume_mounts&quot;: [],             &quot;label&quot;: &quot;alertnotification&quot;,             &quot;provider&quot;: null,             &quot;plan&quot;: &quot;authorizedusers&quot;,             &quot;name&quot;: &quot;humblehelper-alertnotif-1508301933800&quot;,             &quot;tags&quot;: [                 &quot;dev_ops&quot;,                 &quot;ibm_created&quot;,                 &quot;ibm_dedicated_public&quot;             ]         }     ],     &quot;cloudantNoSQLDB&quot;: [         {             &quot;credentials&quot;: {                 &quot;username&quot;: &quot;bb28b28c-a05b-4242-979b-e411e1384b3f-bluemix&quot;,                 &quot;password&quot;: &quot;7259cbb927d00b996e04b0fea9c578975904fc30610cd2ffbe8df2e9b1040a30&quot;,                 &quot;host&quot;: &quot;bb28b28c-a05b-4242-979b-e411e1384b3f-bluemix.cloudant.com&quot;,                 &quot;port&quot;: 443,                 &quot;url&quot;: &quot;https://bb28b28c-a05b-4242-979b-e411e1384b3f-bluemix:7259cbb927d00b996e04b0fea9c578975904fc30610cd2ffbe8df2e9b1040a30@bb28b28c-a05b-4242-979b-e411e1384b3f-bluemix.cloudant.com&quot;             },             &quot;syslog_drain_url&quot;: null,             &quot;volume_mounts&quot;: [],             &quot;label&quot;: &quot;cloudantNoSQLDB&quot;,             &quot;provider&quot;: null,             &quot;plan&quot;: &quot;Lite&quot;,             &quot;name&quot;: &quot;Cloudant NoSQL DB-a7&quot;,             &quot;tags&quot;: [                 &quot;data_management&quot;,                 &quot;ibm_created&quot;,                 &quot;lite&quot;,                 &quot;ibm_dedicated_public&quot;             ]         }     ],     &quot;AppID&quot;: [         {             &quot;credentials&quot;: {                 &quot;version&quot;: 3,                 &quot;clientId&quot;: &quot;0c5f8e1c-58e2-4986-8b9c-e6d597dbb45b&quot;,                 &quot;secret&quot;: &quot;MThkYmYzM2YtYjZjOC00NjAyLTg3YmQtNjMzM2UzYmZhYjE2&quot;,                 &quot;tenantId&quot;: &quot;6a59c574-6ea3-4f91-9618-461b2dc4cdb1&quot;,                 &quot;oauthServerUrl&quot;: &quot;https://appid-oauth.eu-gb.bluemix.net/oauth/v3/6a59c574-6ea3-4f91-9618-461b2dc4cdb1&quot;,                 &quot;profilesUrl&quot;: &quot;https://appid-profiles.eu-gb.bluemix.net&quot;             },             &quot;syslog_drain_url&quot;: null,             &quot;volume_mounts&quot;: [],             &quot;label&quot;: &quot;AppID&quot;,             &quot;provider&quot;: null,             &quot;plan&quot;: &quot;Graduated tier&quot;,             &quot;name&quot;: &quot;App ID-s5&quot;,             &quot;tags&quot;: [                 &quot;security&quot;,                 &quot;mobile&quot;,                 &quot;ibm_created&quot;             ]         }     ],     &quot;AvailabilityMonitoring&quot;: [         {             &quot;credentials&quot;: {                 &quot;cred_url&quot;: &quot;https://perfbroker.eu-gb.bluemix.net&quot;,                 &quot;token&quot;: &quot;oKEv/+HvOvCziH7KQSED01Z/UsbMsBN6p9xydCJDmqIiXXQcsTmyV6YuE28yWPUvmEmRZGUfiTcxaWLeDZFNDFw1oU3I/OL+1oAxXP27P8E=&quot;             },             &quot;syslog_drain_url&quot;: null,             &quot;volume_mounts&quot;: [],             &quot;label&quot;: &quot;AvailabilityMonitoring&quot;,             &quot;provider&quot;: null,             &quot;plan&quot;: &quot;Lite&quot;,             &quot;name&quot;: &quot;availability-monitoring-auto&quot;,             &quot;tags&quot;: [                 &quot;ibm_created&quot;,                 &quot;bluemix_extensions&quot;,                 &quot;dev_ops&quot;,                 &quot;lite&quot;             ]         }     ] }" />
+      </envs>
+      <method>
+        <option name="ToolBeforeRunTask" enabled="false" actionId="Tool_External Tools_Sass" />
+        <option name="RunConfigurationTask" enabled="true" run_configuration_name="run" run_configuration_type="js.build_tools.gulp" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method>
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Sass" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/test</test-directory>
+      <recursive>false</recursive>
+      <method>
+        <option name="ToolBeforeRunTask" enabled="false" actionId="Tool_External Tools_Sass" />
+      </method>
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/test</test-directory>
+      <recursive>false</recursive>
+      <method>
+        <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_Sass" />
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Attach to Node.js/Chrome.Debug" />
+      <item index="1" class="java.lang.String" itemvalue="Gulp.js.default" />
+      <item index="2" class="java.lang.String" itemvalue="Gulp.js.run" />
+      <item index="3" class="java.lang.String" itemvalue="Gulp.js.watch" />
+      <item index="4" class="java.lang.String" itemvalue="Mocha.Test" />
+      <item index="5" class="java.lang.String" itemvalue="npm.HumbleHelper" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2aa6ea5e-47ec-421f-ab6e-a6318467b69f" name="Default" comment="" />
+      <created>1511873068648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1511873068648</updated>
+      <workItem from="1511873084814" duration="1836000" />
+      <workItem from="1512103054812" duration="38110000" />
+      <workItem from="1512189268902" duration="24619000" />
+      <workItem from="1512275019620" duration="24175000" />
+      <workItem from="1512361185139" duration="8995000" />
+      <workItem from="1512400526251" duration="5983000" />
+      <workItem from="1512450799499" duration="18739000" />
+      <workItem from="1512535819842" duration="2823000" />
+      <workItem from="1512540869799" duration="243000" />
+      <workItem from="1512541142962" duration="193000" />
+      <workItem from="1512541361283" duration="4113000" />
+      <workItem from="1512548548198" duration="7415000" />
+      <workItem from="1512581521225" duration="1898000" />
+      <workItem from="1512645370245" duration="16888000" />
+      <workItem from="1512716905022" duration="779000" />
+      <workItem from="1512717708590" duration="2605000" />
+      <workItem from="1512824619180" duration="1309000" />
+      <workItem from="1512838843009" duration="4622000" />
+      <workItem from="1512881278122" duration="6187000" />
+      <workItem from="1513003244107" duration="1122000" />
+      <workItem from="1513142923054" duration="10481000" />
+      <workItem from="1513217310189" duration="33735000" />
+      <workItem from="1513311177608" duration="1171000" />
+      <workItem from="1513338746981" duration="2418000" />
+      <workItem from="1513355192985" duration="6547000" />
+      <workItem from="1513397296563" duration="6307000" />
+      <workItem from="1513443041650" duration="6346000" />
+      <workItem from="1513484904218" duration="21112000" />
+      <workItem from="1513535355452" duration="945000" />
+      <workItem from="1539923183508" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test - 2017.12.06 at 19h 11m 04s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2017.12.06 at 19h 12m 59s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+    <history-entry file="Test - 2017.12.06 at 19h 13m 26s.xml">
+      <configuration name="Test" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="261761000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="230" y="37" width="1400" height="762" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24869695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3979933" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/templates/404.ejs" />
+    <entry file="file://$PROJECT_DIR$/templates/500.ejs" />
+    <entry file="file://$PROJECT_DIR$/templates/403.ejs" />
+    <entry file="file://$PROJECT_DIR$/templates/view_question.ejs" />
+    <entry file="file://$PROJECT_DIR$/templates/suggestion.ejs" />
+    <entry file="file://$PROJECT_DIR$/templates/index.ejs" />
+    <entry file="file://$PROJECT_DIR$/templates/register.ejs" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config/local.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routers/public.js" />
+    <entry file="file://$PROJECT_DIR$/server/routers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routers/usecase-router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/_button.scss" />
+    <entry file="file://$PROJECT_DIR$/public/resources/js/home.js" />
+    <entry file="file://$PROJECT_DIR$/templates/chat.ejs" />
+    <entry file="file://$PROJECT_DIR$/node_modules/connect-cloudant-store/lib/connect-cloudant-store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="203" column="27" lean-forward="false" selection-start-line="203" selection-start-column="27" selection-end-line="203" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.ejs" />
+    <entry file="file://$PROJECT_DIR$/idt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/styles-register.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/styles-view_profile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/styles-view_question.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendors/mode/cobol/cobol.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="194" column="8" lean-forward="false" selection-start-line="194" selection-start-column="8" selection-end-line="194" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendors/mode/css/scss_test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1189">
+          <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendors/mode/slim/slim.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="539" column="5" lean-forward="false" selection-start-line="539" selection-start-column="5" selection-end-line="539" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/styles-index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="12" column="73" lean-forward="false" selection-start-line="12" selection-start-column="73" selection-end-line="12" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/manifest.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/browserconfig.xml" />
+    <entry file="file://$PROJECT_DIR$/cli-config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/html/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/403.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="88" lean-forward="false" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/404.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/500.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-267">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/suggestion.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/styles-chat.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="64" column="4" lean-forward="false" selection-start-line="64" selection-start-column="4" selection-end-line="64" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/js/view_profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/_button.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/js/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2466">
+          <caret line="137" column="11" lean-forward="false" selection-start-line="137" selection-start-column="11" selection-end-line="137" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/chat.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="63" lean-forward="false" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sass/_base-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vendors/css/chat-bubble.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="10" lean-forward="false" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources/js/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="29" lean-forward="false" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3474">
+          <caret line="193" column="53" lean-forward="false" selection-start-line="193" selection-start-column="53" selection-end-line="193" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/home.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/register.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" column="43" lean-forward="false" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/view_profile.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/templates/view_question.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
